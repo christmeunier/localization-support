@@ -1617,7 +1617,7 @@
 				<seg>Save</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Enregistrer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1625,7 +1625,7 @@
 				<seg>Save As</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Enregistrer sous</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2785,7 +2785,7 @@
 				<seg>Don't Save</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ne pas enregistrer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3193,7 +3193,7 @@
 				<seg>Cancel</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Annuler</seg>
 			</tuv>
 		</tu>
 		<tu>

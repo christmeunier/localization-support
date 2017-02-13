@@ -10,7 +10,8 @@ You can find the Nevron Dictionary Editor in your distribution repository.
 
 The main window of the application is divided into two areas - on the left one is shown a navigation tree view, which lets you select a category whose items to edit and on the right side is the table, which contains the keys and their translations for the selected category.
 
-<b>User Interface</b>
+<u><b>User Interface</b></u>
+<br />
 The toolbar of the application contains the following buttons:
 <ul>
   <li><b>Open</b> - lets you open a Nevron localization dictionary (in TMX format) for editing</li>

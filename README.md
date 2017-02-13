@@ -17,7 +17,7 @@ The toolbar of the application contains the following buttons:
   <li><b>Import</b> - provides 2 useful functions:
   <ul>
     <li><b>Translations import</b> - lets you import dictionary translations from another dictionary. This is very useful when there's a new version of the localization dictionary, which contains additional texts to translate. You first have to open it with the <b>Open</b> button and then you can use the <b>Import</b> button to load your translations from an old dictionary and then overwrite the old dictionary using the <b>Save As</b> button.</li>
-    <li><b>Dictionary data import</b> (for <a href="https://www.nevron.com/products-open-vision.aspx">NOV .NET Developers</a>) lets you import dictionary data from a Visual Studio Solution, C# Project File and C# Source Code File. This function scans the selected solution, project or file for localization calls like <b>NLoc.Get("my string")</b> or Nevron property names and adds them to the currently opened dictionary.</li>
+    <li><b>Dictionary data import</b> (for <a href="https://www.nevron.com/products-open-vision">NOV .NET Developers</a>) lets you import dictionary data from a Visual Studio Solution, C# Project File and C# Source Code File. This function scans the selected solution, project or file for localization calls like <b>NLoc.Get("my string")</b> or Nevron property names and adds them to the currently opened dictionary.</li>
    </ul>
   </li>
   <li><b>Save</b> - saves the changes to the currently opened dictionary</li>

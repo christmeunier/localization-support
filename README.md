@@ -8,7 +8,7 @@ Currently the Dictionary Editor is available only for Windows. We will soon prov
 
 You can find the Nevron Dictionary Editor in your distribution repository.
 
-The main window of the application is divided into two areas - on the left one is shown a navigation tree view, which lets you select a category whose items to edit and on the right side is the table, which contains the keys and their translations for the selected category.
+When you open a TMX dictionary you will see a table which contains the Key, Translation and Note columns. The Key column contains the original English (en-US) strings and the Translation column contains the corresponding translation.
 
 <u><b>User Interface</b></u>
 <br />

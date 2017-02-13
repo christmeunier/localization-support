@@ -9,7 +9,7 @@
 				<seg>No Compression</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas de compression</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -17,7 +17,7 @@
 				<seg>Best Speed</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Meilleure vitesse</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25,7 +25,7 @@
 				<seg>Medium Compression</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Compression moyenne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33,7 +33,7 @@
 				<seg>Best Compression</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Meilleure compression</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -41,7 +41,7 @@
 				<seg>Data Table</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Tableau des données</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -49,7 +49,7 @@
 				<seg>Title</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Titre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -57,7 +57,7 @@
 				<seg>Subject</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Objet</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -65,7 +65,7 @@
 				<seg>Author</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Auteur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -73,7 +73,7 @@
 				<seg>Manager</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Manager</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -81,7 +81,7 @@
 				<seg>Company</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Compagnie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -89,7 +89,7 @@
 				<seg>Operator</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Opérateur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -97,7 +97,7 @@
 				<seg>Category</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Catégorie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -105,7 +105,7 @@
 				<seg>Keywords</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mots clés</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -113,7 +113,7 @@
 				<seg>Comment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Commentaire</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -121,7 +121,7 @@
 				<seg>File Name</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nom du fichier</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -129,7 +129,7 @@
 				<seg>File Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille du fichier</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -137,7 +137,7 @@
 				<seg>Hyperlink</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hyperlien</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -145,7 +145,7 @@
 				<seg>Editing Start</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Début de l'édition</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -153,7 +153,7 @@
 				<seg>Version Number</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Numéro de version</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -161,7 +161,7 @@
 				<seg>Creation Time</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Heure de création</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -169,7 +169,7 @@
 				<seg>Revision Time</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Heure de révision</seg>
 			</tuv>
 		</tu>
 		<tu>
